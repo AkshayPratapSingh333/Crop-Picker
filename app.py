@@ -1,12 +1,11 @@
 from flask import Flask, request, render_template
 import numpy as np
-import pickle
-
+import joblib
 # Initialize Flask app
 app = Flask(__name__)
 
 # Load the model
-model = pickle.load(open('crop_model.pkl', 'rb'))
+ranfor = joblib.load('model.joblib')
 
 # Crop dictionary with ID to name mapping
 crop_dictionary = {
@@ -38,7 +37,7 @@ def predict():
         crop_predict = np.array(crop_list).reshape(1, -1)
         
         # Make prediction
-        predicted_crop = model.predict(crop_predict)[0]  
+        predicted_crop = ranfor.predict(crop_predict)[0]  
 
         # Generate result
         if predicted_crop in crop_dictionary:
