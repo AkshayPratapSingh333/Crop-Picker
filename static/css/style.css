@@ -1,0 +1,93 @@
+      /* Background styles */
+      body {
+        background-image: url('D:/ComputerScienceProject/Crop Picker/static/css/style.css'); /* Path to your background image */
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 20px;
+      }
+
+      /* Transparent form box */
+      .architecture-box {
+        background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent white */
+        border-radius: 15px;
+        padding: 30px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        max-width: 700px;
+        max-height: 100vh;
+        width: 100%;
+        margin: auto;
+      }
+
+      .architecture-box h1 {
+        font-size: 2.5rem;
+        color: rgb(255, 255, 255);
+        text-align: center;
+      }
+
+      /* Form styles */
+      .form-control {
+        background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent input fields */
+        color: black;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+
+      .form-control:focus {
+        border-color: #66afe9;
+        box-shadow: 0 0 8px rgba(102, 175, 233, 0.6);
+        cursor: pointer;
+      }
+
+      label {
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+      }
+
+      .btn-primary {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+      }
+
+      .btn-primary:hover {
+        background-color: #28a745;
+        color: white;
+        cursor: pointer;
+      }
+
+      /* Card styles */
+      .card {
+        background-color: rgb(236, 130, 130);
+        color: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        padding: 10px;
+        margin: 10px auto;
+        max-width: 300px;
+        text-align: center;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+
+      .card:hover {
+        transform: scale(1.05); /* Slight zoom effect */
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+      }
+
+      .card h5 {
+        color: #28a745; /* Green text for the title */
+        margin-bottom: 15px;
+      }
+
+      .card p {
+        font-size: 1.2rem;
+        line-height: 1.5;
+        color: #e0e0e0;
+      }

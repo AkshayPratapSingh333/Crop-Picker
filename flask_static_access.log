@@ -1,0 +1,45 @@
+2024-12-03 23:24:18,716 - WARNING:  * Debugger is active!
+2024-12-03 23:24:18,723 - INFO:  * Debugger PIN: 909-461-646
+2024-12-03 23:26:24,754 - INFO:  * Detected change in 'D:\\ComputerScienceProject\\Crop Picker\\app.py', reloading
+2024-12-03 23:26:28,623 - WARNING:  * Debugger is active!
+2024-12-03 23:26:28,639 - INFO:  * Debugger PIN: 909-461-646
+2024-12-03 23:26:54,807 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-03 23:26:54,807 - INFO: [33mPress CTRL+C to quit[0m
+2024-12-03 23:26:54,807 - INFO:  * Restarting with stat
+2024-12-03 23:26:57,065 - WARNING:  * Debugger is active!
+2024-12-03 23:26:57,065 - INFO:  * Debugger PIN: 909-461-646
+2024-12-03 23:28:37,230 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-03 23:28:37,231 - INFO: [33mPress CTRL+C to quit[0m
+2024-12-03 23:28:37,235 - INFO:  * Restarting with stat
+2024-12-03 23:28:39,530 - WARNING:  * Debugger is active!
+2024-12-03 23:28:39,539 - INFO:  * Debugger PIN: 909-461-646
+2024-12-03 23:29:03,316 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-03 23:29:03,316 - INFO: [33mPress CTRL+C to quit[0m
+2024-12-03 23:29:03,320 - INFO:  * Restarting with stat
+2024-12-03 23:29:05,687 - WARNING:  * Debugger is active!
+2024-12-03 23:29:05,695 - INFO:  * Debugger PIN: 909-461-646
+2024-12-03 23:32:39,628 - INFO:  * Detected change in 'D:\\ComputerScienceProject\\Crop Picker\\app.py', reloading
+2024-12-03 23:32:39,630 - INFO:  * Detected change in 'D:\\ComputerScienceProject\\Crop Picker\\app.py', reloading
+2024-12-03 23:32:39,661 - INFO:  * Detected change in 'd:\\ComputerScienceProject\\Crop Picker\\app.py', reloading
+2024-12-03 23:32:39,971 - INFO:  * Restarting with stat
+2024-12-03 23:32:40,017 - INFO:  * Restarting with stat
+2024-12-03 23:33:04,148 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-03 23:33:04,148 - INFO: [33mPress CTRL+C to quit[0m
+2024-12-03 23:33:04,156 - INFO:  * Restarting with stat
+2024-12-03 23:33:06,374 - WARNING:  * Debugger is active!
+2024-12-03 23:33:06,390 - INFO:  * Debugger PIN: 909-461-646
+2024-12-03 23:33:26,594 - INFO:  * Detected change in 'd:\\ComputerScienceProject\\Crop Picker\\app.py', reloading
+2024-12-03 23:33:26,813 - INFO:  * Restarting with stat
+2024-12-03 23:33:30,560 - WARNING:  * Debugger is active!
+2024-12-03 23:33:30,568 - INFO:  * Debugger PIN: 909-461-646
+2024-12-03 23:33:34,413 - INFO:  * Detected change in 'd:\\ComputerScienceProject\\Crop Picker\\app.py', reloading
+2024-12-03 23:33:34,769 - INFO:  * Restarting with stat
+2024-12-03 23:33:37,276 - WARNING:  * Debugger is active!
+2024-12-03 23:33:37,284 - INFO:  * Debugger PIN: 909-461-646
+2024-12-03 23:34:35,787 - INFO:  * Detected change in 'd:\\ComputerScienceProject\\Crop Picker\\app.py', reloading
+2024-12-03 23:34:36,165 - INFO:  * Restarting with stat
+2024-12-03 23:35:03,629 - INFO:  * Restarting with stat
